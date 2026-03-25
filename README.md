@@ -55,12 +55,12 @@ Hey! I'm **Vinothana** — a passionate software developer & open source enthusi
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 🌐 Portfolio | [portfolio-vinothana.vercel.app](https://portfolio-vinothana.vercel.app/) |
-| 💼 LinkedIn | [linkedin.com/in/Vinothana](https://linkedin.com/in/Vinothana) |
-| 📧 Email | [vinothanakrish05@gmail.com](mailto:vinothanakrish05@gmail.com) |
-| 🏆 LeetCode | [leetcode.com/Vinothana](https://leetcode.com/Vinothana) |
+| Platform |
+|----------|
+| [🌐 Portfolio(https://portfolio-vinothana.vercel.app/)]| 
+| [💼 LinkedIn(www.linkedin.com/in/vinothana-balakrishnan)] | 
+| [📧 Email(mailto:vinothanakrish05@gmail.com) ]| 
+
 
 
 </div>
