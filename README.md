@@ -84,7 +84,10 @@ Fully local RAG pipeline: doctor asks a question, system searches 100+ medical d
 ### GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VinothanaBalakrishnan05&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=VinothanaBalakrishnan05&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+  height="170"
+/>
 
 <img src="https://raw.githubusercontent.com/VinothanaBalakrishnan05/VinothanaBalakrishnan05/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </div>
